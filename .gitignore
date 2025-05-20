@@ -1,3 +1,5 @@
 __pycache__
-SecretConfig.py
 .venv
+dist
+build
+hipoteca_inversa_gui.spec
